@@ -1,0 +1,14 @@
+SAUVEGARDE DE LA TACHE 1
+ 
+Identifiant : 1
+Titre : y
+Description : y
+Date de création : 000000
+Date de clôture : 000000
+Statut : a
+Pourcentage d'avancement : 10 %
+Priorité : y
+Commentaires : y, This_is_a_new_comment
+Sous-tâches nécessaires à l'exécution de la tâche courante : y, y
+ 
+Cette tâche a été réalisée avec l'application MySuperTodo.

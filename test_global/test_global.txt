@@ -1,0 +1,65 @@
+You first have to create a task.
+Title of the new task ? y
+Description ? y
+Date of creation ? 000000
+Date of closure ? 000000
+Status ? y
+Percentage of completion ? Please make sure to enter a double. 10
+Priority ? y
+Comments ? y
+Subtasks ? y
+A todo is going to be created with your task.
+Title of the new todo?
+Test_of_the_algorithm
+The todo 1 has been created with your task in your current folder.
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+addTask
+Title of the new task ? a
+Description ? a
+Date of creation ? 000000
+Date of closure ? 000000
+Status ? a
+Percentage of completion ? Please make sure to enter a double. 55
+Priority ? a
+Comments ? a
+Subtasks ? a
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+removeTask
+Title of the task to remove ?
+y
+a
+a
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+addComment
+Title of the Task ?
+y
+You can now type the comment(s).
+This_is_a_new_comment
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+addSubtask
+Title of the Task ?
+y
+You can now type the substask(s).
+y 
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+changeStatus
+Title of the Task ?
+y
+New status ?
+a
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+list  
+Priority ?
+y
+Voici la liste des tâches de priorité : y
+y
+What do you want to do ? You can type :
+addTask removeTask addComment addSubtask changeStatus list finish
+finish
+Thank you for all your entries and see you back soon !

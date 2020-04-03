@@ -1,0 +1,14 @@
+SAUVEGARDE DE LA TACHE 12
+ 
+Identifiant : 12
+Titre : Faire le projet de C++
+Description : Evaluation qui comptera pour ma note finale !
+Date de création : 290320
+Date de clôture : 010420
+Statut : Ouverte
+Pourcentage d'avancement : 0 %
+Priorité : None
+Commentaires : Il s'agirait de terminer à l'heure, ne pas oublier de dormir
+Sous-tâches nécessaires à l'exécution de la tâche courante : créer la classe Tache, tester la classe Tache
+ 
+Cette tâche a été réalisée avec l'application MySuperTodo.

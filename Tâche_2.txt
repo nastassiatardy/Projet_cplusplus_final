@@ -1,0 +1,14 @@
+SAUVEGARDE DE LA TACHE 2
+ 
+Identifiant : 2
+Titre : Bohemian rhapsody
+Description : Biographie de Queen
+Date de création : 010420
+Date de clôture : 020420
+Statut : En progression
+Pourcentage d'avancement : 10 %
+Priorité : Urgente
+Commentaires : Certains éléments du film sont inexacts
+Sous-tâches nécessaires à l'exécution de la tâche courante : Acheter du pop corn
+ 
+Cette tâche a été réalisée avec l'application MySuperTodo.
